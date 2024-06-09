@@ -820,7 +820,7 @@ section {
   display: block;
   font-size: 28px;
   font-weight: 700;
-  color: #ffcf88;
+  color: #553923;
 }
 
 .why-us .box h4 {
@@ -1262,7 +1262,7 @@ section {
   display: block;
   width: 50px;
   height: 1px;
-  background: #ffcf88;
+  background: #553923;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -1308,7 +1308,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/testimonials-bg1.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -1601,4 +1601,10 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+#footer .logo img {
+  padding: 0;
+  margin: 0;
+  max-height: 100px;
 }
